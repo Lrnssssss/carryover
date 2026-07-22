@@ -12,7 +12,7 @@
   const E = globalThis.CarryoverEngine;
   if (!E) return;
 
-  const KOFI_URL = 'https://ko-fi.com/lrnssssss';
+  const KOFI_URL = 'https://ko-fi.com/jju1s';
 
   /* ---------------------------------------------------------------------- *
    * Site adapters

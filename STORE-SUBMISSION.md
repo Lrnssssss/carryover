@@ -63,7 +63,7 @@ icon, screenshots, or promo tile.
 
 ## Short description (132 char limit)
 
-    See how full your chat is getting, then carry its context into a new one. No account, no server, works fully offline.
+    Declares zero permissions. See how full your chat is, then carry its context into a new one. No account, no server.
 
 ## Category
 
@@ -74,6 +74,15 @@ icon, screenshots, or promo tile.
 Write a genuinely different opening paragraph for each of the three. Do not
 paste identical copy with only the site name swapped, because that is the shape
 that gets flagged as keyword-stuffed.
+
+    This extension requests no permissions. Open the Details tab and the
+    permissions list is empty, because the manifest has no permissions key in
+    it. It cannot see your other tabs, your browsing history or your cookies.
+    The only page it touches is the chat you already have open.
+
+    That is unusual for this category. Tools that shuttle context between
+    different AI sites need broad access to all of them. Carryover works on the
+    page you are already on, so it never needed that access in the first place.
 
     Long chats get slow and forgetful, and starting a fresh one throws away
     everything the model learned about your problem.

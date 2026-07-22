@@ -11,11 +11,11 @@ builds a compact handoff document you can paste into a new chat.
 
 Works on ChatGPT, DeepSeek, and Grok. One build per site.
 
-**[lrnssssss.github.io/carryover](https://lrnssssss.github.io/carryover/)**
+**[cig13zs.github.io/carryover](https://cig13zs.github.io/carryover/)**
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-buy_me_a_coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/jju1s)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-[![Tests](https://img.shields.io/github/actions/workflow/status/Lrnssssss/carryover/test.yml?style=flat-square&label=tests)](https://github.com/Lrnssssss/carryover/actions)
+[![Tests](https://img.shields.io/github/actions/workflow/status/cig13zs/carryover/test.yml?style=flat-square&label=tests)](https://github.com/cig13zs/carryover/actions)
 
 ---
 
@@ -124,7 +124,7 @@ These are real, and listing them here is cheaper than a one-star review:
 
 ## Install
 
-Grab a zip from [Releases](https://github.com/Lrnssssss/carryover/releases), unzip
+Grab a zip from [Releases](https://github.com/cig13zs/carryover/releases), unzip
 it, then in Chrome: `chrome://extensions` → enable **Developer mode** → **Load
 unpacked** → pick the folder.
 

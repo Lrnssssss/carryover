@@ -31,10 +31,10 @@ What is NOT private, stated plainly:
   2FA, and a payment card. Pseudonymity here means invisible to people browsing
   the store, not unknown to Google.
 - **The GitHub link connects the dots.** The listing points at
-  `github.com/Lrnssssss/carryover`, and that account owns other repos. For real
+  `github.com/cig13zs/carryover`, and that account owns other repos. For real
   separation the tool needs its own GitHub account.
 - **Git history is already scrubbed.** Commits now show
-  `123896289+Lrnssssss@users.noreply.github.com`, not your real address.
+  `123896289+cig13zs@users.noreply.github.com`, not your real address.
 - **Close the hole permanently**: GitHub, Settings, Emails, then tick *Keep my
   email addresses private* and *Block command line pushes that expose my email*.
 
@@ -119,15 +119,15 @@ that gets flagged as keyword-stuffed.
       are not in the page cannot be counted or carried.
 
     Free and open source under the MIT licence.
-    Source: https://github.com/Lrnssssss/carryover
+    Source: https://github.com/cig13zs/carryover
 
     Not affiliated with, endorsed by or connected to OpenAI, DeepSeek or xAI.
 
 ## URLs
 
-    Homepage:        https://lrnssssss.github.io/carryover/
-    Privacy policy:  https://lrnssssss.github.io/carryover/privacy.html
-    Support:         https://github.com/Lrnssssss/carryover/issues
+    Homepage:        https://cig13zs.github.io/carryover/
+    Privacy policy:  https://cig13zs.github.io/carryover/privacy.html
+    Support:         https://github.com/cig13zs/carryover/issues
 
 ## Images still needed
 

@@ -58,8 +58,8 @@ Before you start, have ready:
 16. **Small promo tile**: upload `promo-440x280.png` from the same folder. This
     one is **required**, the form will not let you submit without it.
 17. Skip the marquee tile, it is optional.
-18. **Official URL / homepage**: `https://lrnssssss.github.io/carryover/`
-19. **Support URL**: `https://github.com/Lrnssssss/carryover/issues`
+18. **Official URL / homepage**: `https://cig13zs.github.io/carryover/`
+19. **Support URL**: `https://github.com/cig13zs/carryover/issues`
 
 ### Privacy tab
 
@@ -75,7 +75,7 @@ Fill in every one.
 23. **Data usage**: tick **nothing**. The extension collects none of the listed
     data types. Then tick all three certification checkboxes at the bottom. All
     three are true for this extension.
-24. **Privacy policy URL**: `https://lrnssssss.github.io/carryover/privacy.html`
+24. **Privacy policy URL**: `https://cig13zs.github.io/carryover/privacy.html`
 
 ### Distribution tab
 

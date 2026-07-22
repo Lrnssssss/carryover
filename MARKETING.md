@@ -88,7 +88,7 @@ Subject: `free, no-signup extension for the context-limit thing`
     No permissions in the manifest, no server, no account. MIT licensed, free,
     and it stays free.
 
-    https://lrnssssss.github.io/carryover/
+    https://cig13zs.github.io/carryover/
 
     Not asking for a video. If it is useful to you personally that is already
     worth the email.
@@ -107,7 +107,7 @@ Subject: `free tool for the context-window problem, no signup`
 
     Free, MIT, no account, no upsell.
 
-    https://lrnssssss.github.io/carryover/
+    https://cig13zs.github.io/carryover/
 
     If it is not a fit, no reply needed.
 

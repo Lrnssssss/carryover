@@ -55,7 +55,7 @@ Body:
 
     Builds for ChatGPT, DeepSeek and Grok. MIT licensed.
 
-    https://github.com/Lrnssssss/carryover
+    https://github.com/cig13zs/carryover
 
     Known limits are in the README rather than hidden: the token count is a
     character heuristic and lands within about 15%, the percentage is measured
@@ -87,7 +87,7 @@ Body:
 
     Free and MIT licensed. Works on ChatGPT, DeepSeek and Grok.
 
-    https://github.com/Lrnssssss/carryover
+    https://github.com/cig13zs/carryover
 
     Happy to hear where the extraction gets it wrong, that is the part most
     worth improving.

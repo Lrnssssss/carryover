@@ -28,7 +28,7 @@ const TARGETS = {
   },
 };
 
-const VERSION = '1.2.2';
+const VERSION = '1.2.3';
 
 function buildTarget(id, cfg) {
   const outDir = path.join(DIST, id);
@@ -50,7 +50,7 @@ function buildTarget(id, cfg) {
     manifest_version: 3,
     name: cfg.name,
     version: VERSION,
-    homepage_url: 'https://github.com/Lrnssssss/carryover',
+    homepage_url: 'https://github.com/cig13zs/carryover',
     description: cfg.description,
 icons: { 16: 'icons/icon16.png', 32: 'icons/icon32.png', 48: 'icons/icon48.png', 128: 'icons/icon128.png' },
     // A toolbar popup needs no permission. It is the only place a user can find

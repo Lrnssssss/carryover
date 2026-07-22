@@ -11,6 +11,8 @@ builds a compact handoff document you can paste into a new chat.
 
 Works on ChatGPT, DeepSeek, and Grok. One build per site.
 
+**[lrnssssss.github.io/carryover](https://lrnssssss.github.io/carryover/)**
+
 ---
 
 ## How it works
